@@ -1,3 +1,18 @@
+#Build a BETTER Facebook Maseenger Chat Application - React JS, Firebase, Chat Engine 
+There is something wrong with adding users through firebase.
+
+"project-id" : "c74afe29-eafc-47e1-ab97-206530b9532b",  
+"user-name" : user.email,  
+"user-secret" : user.uid,
+
+Change this to
+"project-id" : "c74afe29-eafc-47e1-ab97-206530b9532b",  
+"user-name" : "tim",  
+"user-secret" : "password",
+
+after creating user with -> username : tim & password.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
